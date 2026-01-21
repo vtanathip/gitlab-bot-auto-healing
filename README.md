@@ -1,8 +1,7 @@
-# Simple GitLab Bot
+# gitlab-bot-auto-healing
+Auto healing bot for keep patching new locator of test suitest
 
-A simple Node.js bot that automates checking and updating code in a GitLab repository.
-
-## features
+## Features
 - Connects to GitLab using a Personal Access Token.
 - Creates a new branch.
 - Makes a commit (e.g., updating a timestamp).
